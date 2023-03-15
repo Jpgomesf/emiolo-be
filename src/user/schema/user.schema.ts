@@ -23,7 +23,7 @@ export class User extends Document {
   name: string;
 
   @Prop()
-  photo: string;
+  picture: string;
 }
 
 export const UserSchema = SchemaFactory.createForClass(User);

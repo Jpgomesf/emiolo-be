@@ -4,6 +4,11 @@
 
 This is a backend application built with NestJS and MongoDB for the Emiolo company. It provides endpoints to manage users.
 
+## What technology I am using?
+- [Nestjs](https://nestjs.com) - Node.js framework
+- [TypeScript](https://www.typescriptlang.org/) - Static tye checking
+- [Jest](https://jestjs.io/) - JavaScript testing framework
+
 ## Installation
 
 ```bash
@@ -32,12 +37,6 @@ $ npm run start:prod
 ```bash
 # unit tests
 $ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
 ```
 
 ## Stay in touch
